@@ -1,0 +1,12 @@
+entrada = int(input('Digite um numero: '))
+
+print(entrada, 'x 1 =', entrada * 1)
+print(entrada, 'x 2 =', entrada * 2)
+print(entrada, 'x 3 =', entrada * 3)
+print(entrada, 'x 4 =', entrada * 4)
+print(entrada, 'x 5 =', entrada * 5)
+print(entrada, 'x 6 =', entrada * 6)
+print(entrada, 'x 7 =', entrada * 7)
+print(entrada, 'x 8 =', entrada * 8)
+print(entrada, 'x 9 =', entrada * 9)
+print(entrada, 'x 10 =', entrada * 10)

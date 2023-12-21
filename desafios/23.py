@@ -1,4 +1,4 @@
-numero_digitado = int(input('Digite uma numero: '))
+numero_digitado = int(input('Digite um numero: '))
 
 unidade = numero_digitado % 10
 dezena = (numero_digitado // 10) % 10

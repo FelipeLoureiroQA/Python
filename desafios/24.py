@@ -1,6 +1,7 @@
-nome = input("Digite um nome: ")
-nome = nome.split()
-buscado = "Santos"
+nome = input("Digite o nome da cidade: ")
+nome = nome.upper().split()
+buscado = "SANTO"
 
 nome = buscado in nome
-print(nome)
+
+print("A cidade começa com a palavra 'Santo'? {}".format(nome))

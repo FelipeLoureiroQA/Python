@@ -5,4 +5,6 @@
 - 5 a 15: Operadores aritméricos;
 - 16 a 21: Modulos exercicios diversos;
 - 22 a 27: Tratamento de cadeias de caracteres;
-- 28 a  : Condicionais;
+- 28 a 30: Condicionais;
+
+Progresso: 30% [=======>.................]

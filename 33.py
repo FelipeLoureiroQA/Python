@@ -14,5 +14,3 @@ elif segundo <= primeiro and segundo <= terceiro:
        print("Segundo é o menor")
 else: 
        print("Terceiro é o menor")
-
-    
